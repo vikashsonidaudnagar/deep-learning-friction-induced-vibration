@@ -1,0 +1,9 @@
+file,vb,N,role
+run_015.csv,0.15,9.81,train
+run_030.csv,0.3,9.81,train
+run_050.csv,0.5,9.81,train
+run_080.csv,0.8,9.81,train
+run_120.csv,1.2,9.81,train
+run_065.csv,0.65,9.81,test
+run_100.csv,1.0,9.81,test
+run_010.csv,0.1,9.81,test
